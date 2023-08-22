@@ -5,8 +5,7 @@
 # About the Project
 
 Using a combination of HTML elements and intricate CSS styling, I've managed to capture the essence of Patrick Star's character
-in a pixel-perfect representation. The distinctive features that make Patrick who he is, from his wide grin to his endearing googly
-eyes, have all been crafted using code.
+in a pixel-perfect representation, have all been crafted using code.
 
 
 # Contributions
